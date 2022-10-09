@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\bin\Debug\net6.0\EncodingTest.exe
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\bin\Debug\net6.0\EncodingTest.deps.json
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\bin\Debug\net6.0\EncodingTest.runtimeconfig.json
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\bin\Debug\net6.0\EncodingTest.dll
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\bin\Debug\net6.0\EncodingTest.pdb
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\EncodingTest.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\EncodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\EncodingTest.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\EncodingTest.AssemblyInfo.cs
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\EncodingTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\EncodingTest.dll
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\refint\EncodingTest.dll
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\EncodingTest.pdb
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\EncodingTest.genruntimeconfig.cache
+C:\Users\user\Desktop\小小實作\EncodingTest\EncodingTest\obj\Debug\net6.0\ref\EncodingTest.dll
